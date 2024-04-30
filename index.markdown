@@ -6,5 +6,5 @@ layout: home
 ---
 **I'm David Smith, also known to some as "David the Data Dude."**
 
-Find out more about me on the [About](about/) page, [LinkedIn](https://www.linkedin.com/in/dksmith01/), and by subscribing to my newsletter.
+Find out more about me on the [About](about/) page and [LinkedIn](https://www.linkedin.com/in/dksmith01/). Newsletter coming soon!
 
