@@ -6,7 +6,7 @@ permalink: /about/
 
 I always describe data science as "the job I always wanted but it didn't exist yet." I was a weird kid who would sit down with a phone book or the newspaper's sports page and read through it, finding patterns and memorizing the contents. It never really occurred to me that that sort of activity could be a career option. 
 
-My educational journey led me to major in engineering at Rice University, followed by an MBA in finance and strategic management at Wharton. Throughout these experiences, I gained valuable skills and knowledge, but a sense of purpose eluded me.
+My educational journey led me to major in engineering at Rice, followed by an MBA in finance and strategic management at Wharton. Throughout these experiences, I gained valuable skills and knowledge while meeting lots of talented people, but a sense of purpose eluded me.
 
 After working in various roles, including product management for mortgage origination software, I stumbled upon the field of data science around 2015. The moment I discovered it, I recognized it as the perfect fusion of my aptitudes, interests, and aspirations.
 
