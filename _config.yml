@@ -21,7 +21,7 @@
 title: David the Data Dude
 email: david@thedatadu.de
 description: >- # this means to ignore newlines until "baseurl:"
-  A personal blog about data science, customer analytics, startup investing,  
+  Data science, customer analytics, startup investing,  
   the dawning AI revolution, and general business. I also have some side data 
   projects that I'll post about from time to time.
 baseurl: "" # the subpath of your site, e.g. /blog
