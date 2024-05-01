@@ -6,7 +6,7 @@ date:   2024-05-01
 categories: blog
 ---
 ![Data Deeds Done Dirt Cheap](/assets/img/data-deeds-done-dirt-cheap.png)
-*Image by DALL-E*
+*Image by DALL-E* 
 
 # Looking Back
 
