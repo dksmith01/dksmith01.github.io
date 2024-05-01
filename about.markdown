@@ -16,7 +16,7 @@ From 2018 to 2024, I founded and led the data team at [TheVentureCity](https://w
 
 While my non-linear career path may seem unconventional, it has prepared me for the challenges I've encountered in the data science field. Beyond the "Data Dude" nickname, I consider myself a well-rounded executive leader with a diverse background. My ability to communicate effectively technical concepts and how they apply to business has helped me establish credibility and trust.
 
-As of May 2024, I have transitioned to an advisory role at TheVentureCity, which allows me the freedom to explore new career opportunities. I am actively brainstorming ideas and consulting with various individuals, confident that I will recognize the right path when it presents itself.
+As of May 2024, I have transitioned to an advisory role at TheVentureCity, which allows me the freedom to explore new career opportunities. I am actively brainstorming ideas with various individuals, confident that I will recognize the right path when it presents itself.
 
 In the meantime, I plan to share my experiences and insights on data science, customer analytics, startup investing, and general business. I also intend to pursue personal data projects in my free time, as my passion for data knows no bounds.
 

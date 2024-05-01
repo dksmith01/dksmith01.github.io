@@ -142,6 +142,8 @@ This architecture served us well for several reasons:
 - We tested and rejected many approaches before arriving at our eventual data stack
 - Taking a modern data stack approach made scaling with a small team much easier
 
+<div style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LO4d-2THi00?si=plAtJd6pDMIUv2zn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 # Recommended Reading
 
 - Jonathan Hsu
