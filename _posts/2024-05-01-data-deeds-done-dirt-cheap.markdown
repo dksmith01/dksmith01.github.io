@@ -18,7 +18,7 @@ This is the first of a series of posts in which I reflect upon what I learned du
 
 # Starting Out
 
-When people would ask me what our team at TheVentureCity did, I’d usually give a very broad answer: **We helped TheVentureCity and our startups use data to their advantage.** After all, those were essentially my only instructions when I first joined the company: data is probably important to investing in and building tech companies, so I had to figure out what that meant for us. It was the type of “blue sky” project that I love, a complex, ambiguous puzzle to be solved.
+When people would ask me what our team at TheVentureCity did, I’d usually give a very broad answer: **We helped TheVentureCity and our startups use data to their advantage.** After all, those were essentially my only instructions when I first joined the company: "data is probably important to investing in and building tech companies," the reasoning went, so I had to figure out what that meant for us. It was the type of “blue sky” project that I love, a complex, ambiguous puzzle to be solved.
 
 I quickly realized I needed to narrow my scope in those early days because “anything data related” was simply too broad and would pull me in too many directions. While not new to working with data, I was new to VC investing. In those first weeks and months, I did a lot of reading to find out what smart investors were doing out there. I found people experimenting with using data at all steps in the VC funnel, from sourcing new deals, to screening companies and founders, to due diligence, to portfolio value creation.
 
