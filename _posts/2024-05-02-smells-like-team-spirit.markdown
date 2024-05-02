@@ -7,7 +7,7 @@ categories: blog
 ---
 |![TheVentureCity Data Team](/assets/img/IMG_0407.jpg)|
 |:--:|
-| *TheVentureCity data team, June 2023* |
+| *TheVentureCity data team, June 2023. All of these people are curious and persistent.* |
 
 In the beginning, it was just me, a solo data ~~scientist~~ dude working with the rest of TheVentureCity team to figure out how to use data to our advantage (please see my previous post for a full discussion of my approach). I was lucky enough to have some strong engineering colleagues (h/t Roberto Carlos Navas and Juan Ramiro) to help me achieve some early impact, and soon we decided that I could use some help. So we hired some people for me to lead. That’s how I ended up founding a data team. 
 
@@ -41,7 +41,7 @@ I saw it as my role to help our team members manage their calendars to find four
 
 My goal in managing our team was to help it reach “self management,” where the team members coordinate their own activities and make decisions without a central authority. As the manager of self-managed team, my role would be that of a servant leader, removing roadblocks and setting ambitious goals. We understood that for our team to manage itself effectively, every member needed to feel empowered and trusted. This trust extended to handling mistakes and failures positively. We fostered a culture where mistakes were seen as opportunities for learning and growth, believing that each error helped us refine our methods and deepen our ownership of projects.
 
-A team’s degree of self-management exists on a continuum I believe we moved far down that continuum on the way towards “full” self-management without getting completely there. But we became a much better team in the process of continuous improvement required to get as far as we did.
+A team’s degree of self-management exists on a continuum. I believe we moved far down that continuum on the way towards “full” self-management without getting completely there. But we became a much better team in the process of continuous improvement required to get as far as we did.
 
 # Give and Receive Feedback
 
