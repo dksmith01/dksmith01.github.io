@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Data is where I find my purpose. The organizing principle of my career is the desire to work on creative, impactful projects involving data and AI. But thanks to the fact that I took a non-linear career path and didn't discover data science as an option until the middle of my career, I honed a bunch of other skills as well. I'm a well-rounded executive leader with a diverse background. My ability to communicate effectively technical concepts and how they apply to business has helped me establish credibility and trust. 
+Data is where I find my purpose. The organizing principle of my career is the desire to work on creative, impactful projects involving data and AI. But thanks to the fact that I took a non-linear career path and didn't discover data science as an option until I had around 20 years under my belt, I honed a bunch of other skills as well. I'm a well-rounded executive leader with a diverse background. My ability to communicate effectively technical concepts and how they apply to business has helped me establish credibility and trust. 
 
 I was a slightly weird kid who would sit down with a phone book or the newspaper's sports page and read through it, finding patterns and memorizing the contents. It never really occurred to me that that sort of activity could be a career option. That's why I always describe data science as "the job that I always wanted but didn't exist yet." 
 
