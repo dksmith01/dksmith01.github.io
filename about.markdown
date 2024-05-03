@@ -19,4 +19,3 @@ From 2018 to 2024, I founded and led the data team at [TheVentureCity](https://w
 As of May 2024, I have transitioned to an advisory role at TheVentureCity, which allows me the freedom to explore new career opportunities. I am actively brainstorming ideas with various individuals, confident that I will recognize the right path when it presents itself.
 
 In the meantime, I plan to share my experiences and insights on data science, customer analytics, startup investing, the dawning AI revolution, and general business. I also intend to follow my curiosity on some personal data projects in my free time. I love this stuff.
-
