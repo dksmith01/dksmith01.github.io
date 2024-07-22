@@ -10,7 +10,7 @@ categories: blog
 
 # Wading In
 
-I recently joined a great Slack community called [Eventgarde](eventgardehq.slack.com). Organized and facilitated by Timo Dechau, it’s a strong and growing group of people who nerd out about the type of analytics you can do with user event data. As a response to my intro Slack post in which I talked about my interest in “customer analytics,” Timo responded with “I love that you call it customer analytics. My vote would go that we just stop using any other terms and only use customer analytics since this is what it’s all about.” I agree, Timo! In an effort to popularize the term more widely, I’d like to wade into what “customer analytics” is, why it's crucial, and how it can help us create more value from our everyday business data.
+I recently joined a great Slack community called [Eventgarde](eventgardehq.slack.com). Organized and facilitated by [Timo Dechau](https://timodechau.com/), it’s a strong and growing group of people who nerd out about the type of analytics you can do with user event data. As a response to my intro Slack post in which I talked about my interest in “customer analytics,” Timo responded with “I love that you call it customer analytics. My vote would go that we just stop using any other terms and only use customer analytics since this is what it’s all about.” I agree, Timo! In an effort to popularize the term more widely, I’d like to wade into what “customer analytics” is, why it's crucial, and how it can help us create more value from our everyday business data.
 
 # Defining the Customer
 
@@ -20,11 +20,11 @@ It's super important to really understand who your customers are, because they'r
 
 # How is a Customer Different from a User?
 
-A “user” is a person or other entity who *could *become a customer one day (perhaps in a free trial); is affiliated with a customer (an end-user of a B2B SaaS product); or part of the product (as in the case of Facebook, where users are integral to the product that advertisers buy*). When I use the term “customer analytics,” I generally include both users and customers under that umbrella.
+A “user” is a person or other entity who *could* become a customer one day (perhaps in a free trial); is affiliated with a customer (an end-user of a B2B SaaS product); or part of the product (as in the case of Facebook, where users are integral to the product that advertisers buy). When I use the term “customer analytics,” I generally include both users and customers under that umbrella.
 
 Users are not customers, but in my view of customer analytics–especially as it is applied to startups–users are still important for several reasons:
 
-- There’s a difference between paying for a product and using the product. I have a subscription to the New York Times app and read it every day. I also have a subscription to the Washington Post app and read it maybe once a week. I would say I’m much more of a churn risk–i.e. more likely to cancel my subscription–with the Post than the Times. The Times is a much stickier app for me; not only does it have news but it also has games. Measuring *user *engagement helps understand *customer *churn risk.
+- There’s a difference between paying for a product and using the product. I have a subscription to the New York Times app and read it every day. I also have a subscription to the Washington Post app and read it maybe once a week. I would say I’m much more of a churn risk–i.e. more likely to cancel my subscription–with the Post than the Times. The Times is a much stickier app for me; not only does it have news but it also has games. Measuring *user* engagement helps understand *customer* churn risk.
 
 - Customers and users can be different groups of people. In the case of, say, a B2B SaaS, the customer is a business using the product–or the people running the department that uses the software. Meanwhile, the users are the people who work in that department who use the software every day. Like the Times vs. Post example above, we need to assess engagement (frequency of use) of the users to assess churn risk of the customers. But with different groups of people, its more complicated to get there.
 
@@ -54,7 +54,7 @@ By analyzing what each and every customer does in the product and then aggregati
 
 - Spending increasing amounts of money via expansion of use or up-sells/cross-sells
 
-If a company can efficiently find and grow a base of happy customers over time through reliable acquisition channels, it is a sign that they have achieved product-market fit (PMF), a critical inflection point for any startup. Measuring PMF is a subset of customer analytics that deserves a whole [post](https://tribecap.co/a-quantitative-approach-to-product-market-fit/) of its own (h/t to Jonathan Hsu at Tribe Capital; if you really want to dive in, his follow-up [post](https://tribecap.co/unit-economics-and-the-pursuit-of-scale-invariance/) on unit economics takes it to the next level). This approach primarily helps us determine if a startup is ready to scale up or if the team needs to do more work before scaling. Premature scaling can put the entire company at risk. Measuring PMF is particularly important during the investment due diligence stage, forming the rationale behind the [Growth Scanner](https://www.growthscanner.com/) product we built at TheVentureCity. Tribe Capital recently spun out [Termina.ai](Termina.ai) in an effort to make this technology usable by other asset managers directly.
+If a company can efficiently find and grow a base of happy customers over time through reliable acquisition channels, it is a sign that they have achieved product-market fit (PMF), a critical inflection point for any startup. Measuring PMF is a subset of customer analytics that deserves a whole [post](https://tribecap.co/a-quantitative-approach-to-product-market-fit/) of its own (h/t to [Jonathan Hsu](https://www.linkedin.com/in/jonathanphsu/) at Tribe Capital; if you really want to dive in, his follow-up [post](https://tribecap.co/unit-economics-and-the-pursuit-of-scale-invariance/) on unit economics takes it to the next level). This approach primarily helps us determine if a startup is ready to scale up or if the team needs to do more work before scaling. Premature scaling can put the entire company at risk. Measuring PMF is particularly important during the investment due diligence stage, forming the rationale behind the [Growth Scanner](https://www.growthscanner.com/) product we built at TheVentureCity. Tribe Capital recently spun out [Termina.ai](Termina.ai) in an effort to make this technology usable by other asset managers directly.
 
 # Diving Deeper
 
@@ -152,7 +152,7 @@ For a travel app client, we conducted an advanced analysis of user geolocations 
 
 # Special Thanks
 
-To Jonathan Hsu at Tribe Capital for his thought leadership over the years and assistance on this article.
+To [Jonathan Hsu](https://www.linkedin.com/in/jonathanphsu/) at Tribe Capital for his thought leadership over the years and assistance on this article.
 
 \* “It's interesting to actually consider that customers being distinct from users is a bit of a ZIRP [zero interest rates policy] phenomenon. They can only be separate if a customer is willing to subsidize the usage by some other party at some level. Whereas when interest rates are high, the customers want the company to build directly for them. For example, in a ZIRP world, Facebook can build primarily for their users and build only crappy products for their advertising customers. As interest rates go up, Facebook has to focus on ad products and reduces investment in the end-user experience, etc.,” says Hsu.
 
