@@ -14,7 +14,7 @@ I recently joined a great Slack community called [Eventgarde](eventgardehq.slack
 
 # Defining the Customer
 
-We all know what a customer is, right? But since this is half of the name “customer analytics,” let’s just say it: a* customer is any person or entity who buys your products or services*. 
+We all know what a customer is, right? But since this is half of the name “customer analytics,” let’s just say it: *a customer is any person or entity who _buys_ your products or services*. 
 
 It's super important to really understand who your customers are, because they're essentially the backbone of your company's financial health. The whole value of your business can be boiled down to what these folks bring in, minus what it costs you to provide the product or service—that's what we call the contribution margin. By getting a clear picture of this, you can come up with smarter strategies to boost your customer value, which leads to better profits and sustainable growth over the long haul.
 
